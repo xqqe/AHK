@@ -61,13 +61,6 @@ Send '{Left}'
 
 !9::Send '(){Left}'
 
-:*:e'mail::saxon.honey@contractors.roche.com
-
-:*:n'ame::Saxon Honey
-:*:u'ser::honeys
-:*:p'ass::1sunforJupiter.{Enter}
-
-
 
 ;DAYS OF THE WEEK
 
