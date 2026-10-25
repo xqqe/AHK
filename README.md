@@ -10,6 +10,32 @@ This repository collects small, purpose-built [AutoHotkey](https://www.autohotke
 
 The scripts are independent utilities rather than one application. Most are written for **AutoHotkey v2** and can be used or adapted individually.
 
+## Quick reference links
+
+Most scripts in this repository use **AutoHotkey v2**. Use the v2 documentation when writing or updating scripts; the v1 links are retained for older scripts and syntax comparisons.
+
+| Topic | AutoHotkey v2 | AutoHotkey v1 |
+| --- | --- | --- |
+| Documentation home | [v2 documentation](https://www.autohotkey.com/docs/v2/) | [v1 documentation](https://www.autohotkey.com/docs/v1/) |
+| Syntax and language | [Language overview](https://www.autohotkey.com/docs/v2/Language.htm) | [Language overview](https://www.autohotkey.com/docs/v1/Language.htm) |
+| Hotkeys | [Hotkeys](https://www.autohotkey.com/docs/v2/Hotkeys.htm) | [Hotkeys](https://www.autohotkey.com/docs/v1/Hotkeys.htm) |
+| Hotstrings and text expansion | [Hotstrings](https://www.autohotkey.com/docs/v2/Hotstrings.htm) | [Hotstrings](https://www.autohotkey.com/docs/v1/Hotstrings.htm) |
+| Send keystrokes | [Send](https://www.autohotkey.com/docs/v2/lib/Send.htm) | [Send](https://www.autohotkey.com/docs/v1/lib/Send.htm) |
+| Dates and times | [FormatTime](https://www.autohotkey.com/docs/v2/lib/FormatTime.htm) | [FormatTime](https://www.autohotkey.com/docs/v1/lib/FormatTime.htm) |
+| Window controls | [WinActivate](https://www.autohotkey.com/docs/v2/lib/WinActivate.htm) | [WinActivate](https://www.autohotkey.com/docs/v1/lib/WinActivate.htm) |
+| Tooltips | [ToolTip](https://www.autohotkey.com/docs/v2/lib/ToolTip.htm) | [ToolTip](https://www.autohotkey.com/docs/v1/lib/ToolTip.htm) |
+| Keyboard input detection | [InputHook](https://www.autohotkey.com/docs/v2/lib/InputHook.htm) | [Input](https://www.autohotkey.com/docs/v1/lib/Input.htm) |
+
+**Other useful references**
+- [AutoHotkey v2 function index](https://www.autohotkey.com/docs/v2/lib/) — look up built-in functions.
+- [AutoHotkey v2 key list](https://www.autohotkey.com/docs/v2/KeyList.htm) — key names, modifiers, and special keys.
+- [AutoHotkey v2 GUI guide](https://www.autohotkey.com/docs/v2/lib/Gui.htm) — windows and custom interfaces.
+- [AutoHotkey v2 file operations](https://www.autohotkey.com/docs/v2/lib/FileRead.htm) — read external text files.
+- [AutoHotkey v2 version changes](https://www.autohotkey.com/docs/v2/v2-changes.htm) — differences when migrating from v1.
+- [Official AutoHotkey forums](https://www.autohotkey.com/boards/) — examples, troubleshooting, and community solutions.
+
+---
+
 ## What's included
 
 | Area | Examples | Description |
