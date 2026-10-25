@@ -7,6 +7,8 @@ Persistent
 #Include "dates.ahk"
 #Include "hotstrings.ahk"
 #Include "shortcuts.ahk"
+#Include "clipboard.ahk"
+#Include "H:\secret_ahk\person.ahk"
 
 
 
