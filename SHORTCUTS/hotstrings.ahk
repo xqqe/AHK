@@ -18,6 +18,7 @@
 ; --------------------------------------------------------
 
 :*:e'mail::saxonhoney@gmail.com
+:*:rochemail::honey@contractors.roche.com
 :*:@@::saxonhoney@gmail.com
 :*:l'ink::linkedin.com/in/s-honey/
 :*:g'it::github.com/xqqe

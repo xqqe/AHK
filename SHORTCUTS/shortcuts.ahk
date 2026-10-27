@@ -1,6 +1,13 @@
 #Requires AutoHotkey v2.0
 #SingleInstance Force
 
+
+; Ctrl + Alt + C → add commas before line breaks
+:*:\skill:: {
+    A_Clipboard := RegExReplace(A_Clipboard, "\r\n|\n|\r", ",$0")
+	SendText(A_Clipboard)
+}
+
 ; ctrl shift paste to paste with native formatting
 !v::Send '^+{v}'
 
